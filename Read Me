@@ -1,0 +1,2 @@
+Page object model for a the website  http://store.demoqa.com/ created.
+The homepage and login page model repositories used to automate login to the website using Selenium Webdriver
