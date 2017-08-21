@@ -1,2 +1,10 @@
-Page object model for a the website  http://store.demoqa.com/ created.
-The homepage and login page model repositories used to automate login to the website using Selenium Webdriver
+Selenium Script using Page Object Model[POM]
+
+This selenium code automates the login functionality to the account of a demo website using traditional web element locator methods in the page object model.
+
+Two different packages included in the java projects are 
+
+
+•	AutoFramework- contains the selenium script for automated login into the account.
+
+•	PageObjects- contains 2 different classes Homepage and Login Page providing different locator methods required for automation of login functionality used in the autoframework java class.
