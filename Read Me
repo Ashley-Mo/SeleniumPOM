@@ -1,4 +1,4 @@
-Selenium Script using Page Object Model[POM]
+Sample Selenium Script using Page Object Model[POM]
 
 This selenium code automates the login functionality to the account of a demo website using traditional web element locator methods in the page object model.
 
